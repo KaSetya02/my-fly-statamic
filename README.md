@@ -199,11 +199,11 @@ flyctl auth login
 ```
 git clone https://github.com/fly-apps/my-fly-statamic.git
 ```
-# Go to the directory
+## Go to the directory
 ```
 cd my-fly-statamic
 ```
-# Deploy to the world
+## Deploy to the world
 ```
 fly launch --now
 ```
